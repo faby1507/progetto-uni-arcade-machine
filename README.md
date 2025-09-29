@@ -5,4 +5,5 @@ Progetto con le seguenti caratteristiche:
 - incapsulamento
 - polimorfismo
 - tcp/ip
-- client server 
+- client server
+- maven
